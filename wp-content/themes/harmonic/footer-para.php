@@ -45,9 +45,9 @@
 
 			<div class="site-info">
 				<?php do_action( 'harmonic_credits' ); ?>
-				<a href="http://wordpress.org/" rel="generator"><?php printf( __( 'Proudly powered by %s', 'harmonic' ), 'WordPress' ); ?></a>
-				<span class="sep"> | </span>
-				<?php printf( __( 'Theme: %1$s by %2$s.', 'harmonic' ), 'Harmonic', '<a href="https://wordpress.com/themes/" rel="designer">WordPress.com</a>' ); ?>
+				<a href="http://wordpress.org/" rel="generator"><?php printf( __( '', 'harmonic' ), '' ); ?></a>
+				<!--<span class="sep"> | </span>-->
+				<?php printf( __( 'Developed by %2$s.', 'harmonic' ), '', '<a href="http://calli.tech/" rel="designer">CalliTech</a>' ); ?>
 			</div><!-- .site-info -->
 
 		</div><!-- #footer-nav-wrapper -->
