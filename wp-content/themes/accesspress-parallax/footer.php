@@ -50,7 +50,7 @@
 					&copy; <?php echo date('Y')." "; bloginfo('name'); ?>  
 				</div><!-- .copy-right -->
 				<div class="site-info">
-					<?php _e('AccessPress Parallax by','accesspress-parallax'); ?> <a href="<?php echo esc_url('http://accesspressthemes.com/'); ?>" title="AccessPress Themes" target="_blank">AccessPress Themes</a>
+					<?php _e('Powered by','accesspress-parallax'); ?> <a href="<?php echo esc_url('http://calli.tech/'); ?>" title="CalliTech" target="_blank">CalliTech</a>
 				</div><!-- .site-info -->
 			</div>
 		</div>
