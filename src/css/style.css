@@ -13,6 +13,23 @@ body {
     margin-top: 30px;
 }
 
+.col-centered {
+    float: none;
+    margin: 0 auto;
+}
+
+.col-left-centered {
+    margin: 0 15%;
+}
+
+.col-right-centered {
+    margin: 0 auto;
+}
+
+.big-icon {
+    font-size: 150px;
+}
+
 section {
     padding: 100px 0;
 }
