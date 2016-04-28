@@ -16,7 +16,7 @@ This project was commissioned in order to develop a Landing Page an innovative s
 
 Estimated Hours: 10h
 
-Actual Hours: 24h
+Actual Hours: 25h
 
 
 ## Summary
