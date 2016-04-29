@@ -1002,6 +1002,10 @@ footer.footer .copyright p.small {
     font-size: 14px;
 }
 
+footer.footer .copyright p.nano {
+    font-size: 12px;
+}
+
 @media(min-width:1025px) {
     footer.footer {
         background-attachment: fixed;
