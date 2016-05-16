@@ -8,9 +8,9 @@ Copyright © 2016 CalliTech
 * Can not modify source-code for any purpose (can not create derivative works).
 
 
-# kunoleco - Terms and conditions
+# Kunoleco - Terms and conditions
 
-1. **Preamble**: This Agreement, signed on Jan 10, 2016 (hereinafter: Effective Date) governs the relationship between Licensee, a Business Entity, (hereinafter: Licensee) and CalliTech, a duly registered brand in whose principal place of business is Avenida Rovisco Pais 1 (hereinafter: Licensor). This Agreement sets the terms, rights, restrictions and obligations on using kunoleco (hereinafter: The Software) created and owned by Licensor, as detailed herein
+1. **Preamble**: This Agreement, signed on Jan 10, 2016 (hereinafter: Effective Date) governs the relationship between Licensee, a Business Entity, (hereinafter: Licensee) and CalliTech, a duly registered brand in whose principal place of business is Avenida Rovisco Pais 1 (hereinafter: Licensor). This Agreement sets the terms, rights, restrictions and obligations on using Kunoleco (hereinafter: The Software) created and owned by Licensor, as detailed herein
 
 2. **License Grant**: Licensor hereby grants Licensee a Personal, Non-assignable & non-transferable, Pepetual, Non-commercial, Without the rights to create derivative works, Non-exclusive license, all with accordance with the terms set forth and other legal restrictions set forth in 3rd party software used while running Software.
 
